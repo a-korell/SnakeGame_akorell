@@ -1,5 +1,6 @@
 # SnakeGame_akorell
-I developed this game as a way to fix my learnings in Java Script
+##I developed this game as a way to fix my learnings in Java Script
+![SnakeGame](https://github.com/a-korell/SnakeGame_akorell/blob/master/snakeGame.gif)
 
 [ENG]  Hi I developed this game as a way to fix my learnings in JavaScript.
 
