@@ -1,3 +1,32 @@
-body{
-    background: "20242a";
+body {
+    background-color: #20242a;
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Press Start 2P', cursive;
+    color: #2d8bd3;
+}
+
+h1{
+    font-size: 16px;
+    margin-top: 80px;
+}
+
+input{
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 200px;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 12px;
+    background-color: #2d8bd3;
+
+}
+
+footer{
+    font-size: 8px;
+    padding-bottom: 20px;
 }
